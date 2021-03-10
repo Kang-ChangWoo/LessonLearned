@@ -1,5 +1,24 @@
-# 3. Neural Network
-- 
+# 0. 서두 
+- MATLAB 코드로 구성된다. (github.com/philbooks/Deep-Learning-for-Beginners)
+
+# 1. Machine learning: 기계학습, 머신러닝
+s
+
+# 2. Neural network: 신경망
+
+
+# 3. 다층 신경망의 학습
+
+
+# 4. 신경망과 분류
+
+
+# 5. Deep learning: 딥러닝
+
+
+# 6. Convolutional neural network: 합성곱 신경망, 컨볼루션 신경망
+
+
 
 
 ## 3.2 Programming, hadling Multi-dimensional numpy array
