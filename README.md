@@ -3,7 +3,7 @@
 
 
 
-|Index|Project_title|Details|Languages|Period|
+|  Index  |  Project_title  |  Details  |  Languages  |  Period  |
 :---|:---:|:---:|:---:|---:
 
 
