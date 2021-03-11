@@ -1,5 +1,9 @@
 # 5. Backpropagation
 ## a. Lesson learned
+- Backpropagation의 가장 핵심 포인트는 거꾸로 미분이다.
+  : 기본적으로 정방향으로 진행되는 어떤 계산 그래프가 있다면 각 부분을 나누면 함수의 겹겹으로 구성된다.
+    이를 역순으로 미분하면 맨 처음 input 값에 따른 결과값을 알 수 있다.
+
 - Computational graph 계산 그래프의 정의: 계산 과정을 그래프로 나타낸 것
   각 값은 에지로 표현하고, 연산을 노드에 표현한다.
 
@@ -19,20 +23,18 @@
 2. 중간 계산 결과를 저장할 수 있다.
 3. 가장 중요한 것은 미분을 효과적으로 할 수 있다.(?)
 
+- Composite function, 합성함수의 정의:
+  합성 함수의 미분은 합성 함수를 구성하는 가 함수의 미분의 곱으로 나타낼 수 있다.
+
+- 연쇄법칙 Chain rules
+
+- 어파인 변환 (Affine Transformation)의 정의: 행렬의 곱
+
 ## b. Programming
-- 10e-50을 float(32형) 32비트 부동소수점으로 나타내면 0.0이 되어 올바르게 표현할 수 없다.
-- 반올림 오차(rounding error) 때문이다.
-- np.zero_like(x) x와 형상이 같고 그 원소가 모두 0인 배열을 만든다. (array, df 다?)
-- x.size (array?)
-- 매개변수(Parameters)를 Params 라고 변수 이름을 짓기도 함 (naming convention)
-- 클래스에서 사용하는 변수나 클래스의 메서드를 보여주는 방식을 배우면 좋을 듯
+- 
 
 # Futher study
-1. MSE 와 Entropy cross의 차이 (오차 측정 방식)
-2. Source code 확인
-3. 왜 미니배치를 했을 때 효과적인지?
-4. Epoch과 minibatch의 정확한 차이?
-
+1. Sigmoid 함수의 미분하는 방법
 
 # Self-made Question
 
