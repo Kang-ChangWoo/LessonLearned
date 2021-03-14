@@ -3,7 +3,7 @@
  - 1차원 배열은 벡터(Vector), 2차원 배열은 행렬(Matrix), 벡터와 행렬을 일반화 한것을 텐서(Tensor)라고 한다.
  - 좀 더는 Scalar -> Vector -> Matrix -> 3D Tensor -> 4D Tensor... 단계로 변화한다고 보면 된다.
 <img src="../resource/image/figure1_what_is_tensor.png">
-<center><img src="../resource/image/figure1_what_is_tensor.png" width="300" height="300"></center>
+<center><img src="../resource/image/figure1_what_is_tensor.png" width="300"></center>
 
 
 
