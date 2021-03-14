@@ -14,7 +14,16 @@
   - 배열의 차원에 따라 이름이 달라진다고 보면 된다.
 
 - 파이썬 같은 동적언어는 C, C++ 같은 정적 언어(Compile 언어)에 비해 처리 속도가 느리다.  따라서 무거운 작업을 할 땐 C, C++로 작성한 프로그램을 쓰는 편이 좋다.
-- 파이썬을 실행하는 방식에는 '인터프리터'와 '스크립트 파일' 두 가지가 있다.  
+- 파이썬을 실행하는 방식에는 '인터프리터'와 '스크립트 파일' 두 가지가 있다. 
+
+- Numpy, Pandas를 통해 행렬을 선언할 때와 실제 수식 값이 헷갈릴 때가 있다.  아래로 구분하면 좋다.
+<p align="center">
+ <img src="../resource/image/figure2_matrix.png"  width="600">
+ <h4>Matrix type</h4>
+
+</p>
+
+
 # 
 
    
@@ -66,8 +75,8 @@
 
 # Futher study
 1. ~~What is tensor?~~
-2. Array와 Matrix, dataframe 그리고 기존의 행열에서 행과 열, indexing을 명확히 할 것
-   세로를 Row라고 한다.  긴 세로를 뜻한다.
+2. ~~Array와 Matrix, dataframe 그리고 기존의 행열에서 행과 열, indexing을 명확히 할 것
+   세로를 Row라고 한다.  긴 세로를 뜻한다.~~
 3. ~~Scipy lecture note?~~
 4. ~~파이썬 라이브러리를 활용한 데이터분석(한빛 미디어)~~
 5. ~~처음 시작하는 파이썬(한빛 미디어)~~
