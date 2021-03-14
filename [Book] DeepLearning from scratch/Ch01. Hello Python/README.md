@@ -23,7 +23,7 @@
 
 ### b.2 Numpy
 
-- Numpy 에서는, np.array([ ]) 릁 통해 배열(ndarray을 만들 수 있다.
+- Numpy 에서는, np.array([ ]) 를 통해 배열(ndarray을 만들 수 있다.
 - Numpy 에서는, array 간의 기본적인 사칙연산은 Element-wise 하게 진행 된다.
   각 원소 별로 혹은 각 구성성분 별로 사칙연산을 한다.
 - Numpy 에서는, 원소별 곱셈을 Element-wise product 라고 한다.
