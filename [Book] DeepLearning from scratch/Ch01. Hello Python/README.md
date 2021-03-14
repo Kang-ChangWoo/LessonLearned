@@ -4,7 +4,7 @@
  - 좀 더는 Scalar -> Vector -> Matrix -> 3D Tensor -> 4D Tensor... 단계로 변화한다고 보면 된다.
 <img src="../resource/image/figure1_what_is_tensor.png">
 <center><img src="../resource/image/figure1_what_is_tensor.png" width="300"></center>
-
+<div style="text-align:center"><img src="../resource/image/figure1_what_is_tensor.png" /></div>
 
 
 - 파이썬 같은 동적언어는 C, C++ 같은 정적 언어(Compile 언어)에 비해 처리 속도가 느리다.  따라서 무거운 작업을 할 땐 C, C++로 작성한 프로그램을 쓰는 편이 좋다.
