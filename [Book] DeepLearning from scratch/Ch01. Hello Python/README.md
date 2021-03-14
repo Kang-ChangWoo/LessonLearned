@@ -1,6 +1,11 @@
 # 1. Hello Python
 ## a. Programming
  - 1차원 배열은 벡터(Vector), 2차원 배열은 행렬(Matrix), 벡터와 행렬을 일반화 한것을 텐서(Tensor)라고 한다.
+ - 좀 더는 Scalar -> Vector -> Matrix -> 3D Tensor -> 4D Tensor... 단계로 변화한다고 보면 된다.
+<img src="../source/image/figure1_what_is_tensor.png">
+
+
+
 - 파이썬 같은 동적언어는 C, C++ 같은 정적 언어(Compile 언어)에 비해 처리 속도가 느리다.  따라서 무거운 작업을 할 땐 C, C++로 작성한 프로그램을 쓰는 편이 좋다.
 - 파이썬을 실행하는 방식에는 '인터프리터'와 '스크립트 파일' 두 가지가 있다.
 
