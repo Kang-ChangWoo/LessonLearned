@@ -18,7 +18,7 @@
 
 - Numpy, Pandas를 통해 행렬을 선언할 때와 실제 수식 값이 헷갈릴 때가 있다.  아래로 구분하면 좋다.
 <p align="center">
- <img src="../resource/image/figure2_matrix.png"  width="600">
+ <img src="../resource/image/figure2_matrix.jpg"  width="600">
  <h4>Matrix type</h4>
 
 </p>
