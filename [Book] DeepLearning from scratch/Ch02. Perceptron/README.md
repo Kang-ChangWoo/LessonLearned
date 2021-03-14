@@ -20,6 +20,8 @@
 
 
 1. Truth table for logical AND gate
+
+
 | X1 | X2 | Y | 
 :---|:---:|---:
 |   0    |   0    |   0    |
@@ -28,6 +30,8 @@
 |   1    |   1    |   1    |
 
 2. Truth table for logical NAND gate
+
+
 | X1 | X2 | Y | 
 :---|:---:|---:
 |   0    |   0    |   1    |
@@ -36,6 +40,8 @@
 |   1    |   1    |   0    |
 
 3. Truth table for logical OR gate
+
+
 | X1 | X2 | Y | 
 :---|:---:|---:
 |   0    |   0    |   0    |
@@ -48,6 +54,8 @@
 
 - 만일, XOR gate를 표현해본다면?  Exclusively-OR로써 배타적 논리합이란 뜻이다.  ('배타적'이란 자기 외에는 거부한다는 의미다.)
 4. Truth table for logical XOR gate
+
+
 | X1 | X2 | Y | 
 :---|:---:|---:
 |   0    |   0    |   0    |
