@@ -54,12 +54,12 @@
 
 
 # Futher study
-~~- What is tensor?~~
-- Array와 Matrix, dataframe 그리고 기존의 행열에서 행과 열, indexing을 명확히 할 것
+1. ~~What is tensor?~~
+2. Array와 Matrix, dataframe 그리고 기존의 행열에서 행과 열, indexing을 명확히 할 것
    세로를 Row라고 한다.  긴 세로를 뜻한다.
-~~- Scipy lecture note?~~
-- 파이썬 라이브러리를 활용한 데이터분석(한빛 미디어)
-- 처음 시작하는 파이썬(한빛 미디어)
+3. ~~Scipy lecture note?~~
+4. 파이썬 라이브러리를 활용한 데이터분석(한빛 미디어)
+5. 처음 시작하는 파이썬(한빛 미디어)
 
 # Self-made question
 1. Sin, Cos 0에서 10까지 그리기, 레전드 및 각 라벨을 그리고 타이틀을 설정하기
