@@ -7,7 +7,7 @@
 <img src="../resource/image/figure1_what_is_tensor.png"  width="600" />
 </p>
 
-# 2. 11
+
 #### What is Tensor
 https://rekt77.tistory.com/102
 
