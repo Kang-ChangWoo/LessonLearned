@@ -8,7 +8,7 @@
  <h4>What is Tensor</h4>
  <a href="https://rekt77.tistory.com/102">https://rekt77.tistory.com/102</a>
 </p>
-
+<center>Centered text</center>
 
 
 
