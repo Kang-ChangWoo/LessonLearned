@@ -4,9 +4,9 @@
  좀 더는 Scalar -> Vector -> Matrix -> 3D Tensor -> 4D Tensor... 단계로 변화한다고 보면 된다.
 
 <p align="center">
-<img src="../resource/image/figure1_what_is_tensor.png"  width="600">
-<h4>What is Tensor</h4>
-<a href="https://rekt77.tistory.com/102">https://rekt77.tistory.com/102</a>
+ <img src="../resource/image/figure1_what_is_tensor.png"  width="600">
+ <h4>What is Tensor</h4>
+ <a href="https://rekt77.tistory.com/102">https://rekt77.tistory.com/102</a>
 </p>
 
 
