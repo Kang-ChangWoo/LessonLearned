@@ -5,9 +5,10 @@
 
 <p align="center">
 <img src="../resource/image/figure1_what_is_tensor.png"  width="600" />
+</p>
 ##### What is Tensor
 https://rekt77.tistory.com/102
-</p>
+
 
 - 파이썬 같은 동적언어는 C, C++ 같은 정적 언어(Compile 언어)에 비해 처리 속도가 느리다.  따라서 무거운 작업을 할 땐 C, C++로 작성한 프로그램을 쓰는 편이 좋다.
 - 파이썬을 실행하는 방식에는 '인터프리터'와 '스크립트 파일' 두 가지가 있다.
