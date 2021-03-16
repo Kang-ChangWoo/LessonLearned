@@ -7,7 +7,7 @@
 - Numpy에서, Pandas의 DataFrame과 마찬가지로 Array.shape으로 배열의 형상을 알 수 있다.
 - Numpy에서, argmin()은 array 중에서 제일 높은 값의 인덱스를 반환한다.
 
-# Futher study
+# Futher study 
 1. 왜 Sigmoid가 많이 사용되고 중요한지?
 2. 편향뉴런은 왜 매번 있는건지..? 통상 선형회귀식의 잔차라고 생각해도 좋은지?
 3. 지수함수에 대해 명확히 훈련할 것
@@ -16,6 +16,7 @@
 6. Prooagation 뚯이? 전파?
 7. dataset_dir = os.getcwd().replace('\\', '/') 
 8. np.frombuffer ==> raw data에서 array 값을 얻고 싶을 떄 쓰는 함수
+
 
 
 # Self-made Question
