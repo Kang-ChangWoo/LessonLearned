@@ -15,7 +15,7 @@
 | 3 | 텐서플로 첫걸음 |  Torres, Jordi 박해선 2016  |  Book |  -  |  기한 내  |
 | 4 | Deep learning |  Kelleher, John D. c2019  |  Book |  -  |  기한 내  |
 | 5 |  CS231n: Convolutional Neural Networks for Visual Recognition  |  Stanford, , Prof. Fei-Fei Li 2017  |  Online lecture  |  -  |  기한 내  |
-| 6 |  -  |  -  |  -  |  -  |  -  |
+| 6 |  Deep Learning for Computer Vision  |  Book  |  -  |  -  |  -  |
 | 7 |  -  |  -  |  -  |  -  |  -  |
 | 8 |  -  |  -  |  -  |  -  |  -  |
 
