@@ -8,6 +8,7 @@
 #### 딥러닝의 단계별 학습을 위해서 초급 서적부터 학습하고자 함.
 #### 얇은 초급 서적, 기초적인 구현 코드로 이루어진 서적으로 시작하여, 좀 더 어려운 책을 읽고자 기대함.
 
+
 |  Index  |  Material_title  |  Writter  |  Type  |  Details  |  Period  |
 :---|:---:|:---:|:---:|:---:|---:
 | 1 | Deep Learning from Scratch |  Saito Goki 2017  |  Book |  -  |  기한 내  |
