@@ -19,6 +19,8 @@
 | 6 |  Deep Learning for Computer Vision  |  Book  |  -  |  -  |  -  |
 | 7 |  -  |  -  |  -  |  -  |  -  |
 | 8 |  -  |  -  |  -  |  -  |  -  |
+
+
   
   
 
