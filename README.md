@@ -4,9 +4,9 @@
 
 
 ## 재현한 연구
-|  Index  |  Material_title  |  Writter  |  Type  |  Details  |  Period  |
-:---|:---:|:---:|:---:|:---:|---:
-| 1 | LaFIn: Generative Landmark Guided Face Inpainting |  PRCV  |  2020 |  github  |  modified_github  |
+|  Index  |  Research_title  |  Conf.  |  Year  |  Github  |  Modified_Github  | Setup  |
+:---|:---:|:---:|:---:|:---:|---:|:---:
+| 1 | LaFIn: Generative Landmark Guided Face Inpainting |  PRCV  |  2020 |  [Link](https://github.com/YaN9-Y/lafin)  |  [Link](https://github.com/Kang-ChangWoo/Modified_lafin)  | compute8.0 or compute8.6  |
 
 
 
