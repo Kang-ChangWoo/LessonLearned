@@ -3,6 +3,17 @@
 
 
 
+## 재현한 연구
+|  Index  |  Material_title  |  Writter  |  Type  |  Details  |  Period  |
+:---|:---:|:---:|:---:|:---:|---:
+| 1 | LaFIn: Generative Landmark Guided Face Inpainting |  PRCV  |  2020 |  github  |  modified_github  |
+
+
+
+
+
+
+
 ## Deep learning study
 ### 21.03.09~ 21.03.15
 #### 딥러닝의 단계별 학습을 위해서 초급 서적부터 학습하고자 함.
