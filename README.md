@@ -8,7 +8,7 @@
 :---|:---:|:---:|:---:|:---:|:---:|:---:|:---
 | 1 | LaFIn: Generative Landmark Guided Face Inpainting |  PRCV  |  2020 | Face inpainting |  [Link](https://github.com/YaN9-Y/lafin)  |  [Link](https://github.com/Kang-ChangWoo/Modified_lafin)  | compute8.0 or compute8.6  |
 | 2 | StructureFlow: Image Inpainting via Structure-aware Appearance Flow |  ICCV  |  2019 | Image inpainting |  [Link](https://github.com/RenYurui/StructureFlow)  |  [Link](https://github.com/Kang-ChangWoo/Modified_StructureFlow)  | compute8.0 or compute8.6  |
-
+| 3 | Graph Structured Network for Image-Text Matching |  CVPR  |  2020 | Multi-modal mapping |  [Link](https://github.com/CrossmodalGroup/GSMN)  |  [Link](https://github.com/Kang-ChangWoo/Modified_StructureFlow)  | compute8.0 or compute8.6  |
 
 
 
